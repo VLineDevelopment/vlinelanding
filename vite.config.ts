@@ -4,7 +4,7 @@ import path from "path"
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/vlinelanding/', // Add this line - should match your repository name
+  base: 'https://vlinedevelopment.github.io/vlinelanding/', // Add this line - should match your repository name
 
   plugins: [react()],
   resolve: {
